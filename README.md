@@ -4,3 +4,7 @@
 ## 字体
 /font/...
 - SourceHanSerifCN-SemiBold.ttf
+
+## 图片
+/image/...
+- 
